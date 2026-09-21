@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "com.pinea.hyperfps.mixin.client",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "EntityRendererCullingMixin",
+    "BlockEntityRenderDispatcherCullingMixin",
+    "ParticleManagerLimiterMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
+
