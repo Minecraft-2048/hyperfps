@@ -2,7 +2,7 @@
 
 Trois coupes de rendu, toutes réglables, toutes côté client.
 
-Publié sur Modrinth : https://modrinth.com/mod/hyperfps
+Pas encore publié sur Modrinth — la soumission attend une réponse de la modération sur la règle 6.2 (contenu généré par IA).
 
 - **Les entités** cessent d'être dessinées au-delà d'une distance calculée à partir de ta distance
   d'affichage multipliée par un facteur que tu choisis.
